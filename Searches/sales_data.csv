@@ -1,0 +1,4 @@
+OrderID,Customer,Amount,Status
+101,Ajay,250,Completed
+102,Kiran,300,Pending
+103,Suresh,150,Completed
